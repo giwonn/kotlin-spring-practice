@@ -1,0 +1,6 @@
+2023-03-27T18:11:24.832+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 93808 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-27T18:11:24.832+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-27T18:11:25.038+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.412 seconds (process running for 0.749)
+2023-03-27T18:11:25.039+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplication         : I'm info!
+2023-03-27T18:11:25.039+09:00  WARN 93808 --- [main] me.sample.myapp.MyappApplication         : I'm warn!
+2023-03-27T18:11:25.039+09:00 ERROR 93808 --- [main] me.sample.myapp.MyappApplication         : I'm error!
