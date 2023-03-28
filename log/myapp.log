@@ -1,6 +1,136 @@
-2023-03-27T18:11:24.832+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 93808 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
-2023-03-27T18:11:24.832+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
-2023-03-27T18:11:25.038+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.412 seconds (process running for 0.749)
-2023-03-27T18:11:25.039+09:00  INFO 93808 --- [main] me.sample.myapp.MyappApplication         : I'm info!
-2023-03-27T18:11:25.039+09:00  WARN 93808 --- [main] me.sample.myapp.MyappApplication         : I'm warn!
-2023-03-27T18:11:25.039+09:00 ERROR 93808 --- [main] me.sample.myapp.MyappApplication         : I'm error!
+2023-03-28T09:38:08.647+09:00  INFO 14090 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 14090 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:38:08.647+09:00  INFO 14090 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:38:09.276+09:00  INFO 14090 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-28T09:38:09.282+09:00  INFO 14090 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:38:09.282+09:00  INFO 14090 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:38:09.342+09:00  INFO 14090 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:38:09.342+09:00  INFO 14090 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 663 ms
+2023-03-28T09:38:09.596+09:00  INFO 14090 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-28T09:38:09.610+09:00  INFO 14090 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 1.361 seconds (process running for 1.698)
+2023-03-28T09:38:12.393+09:00  INFO 14113 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 14113 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:38:12.394+09:00  INFO 14113 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:38:12.786+09:00  INFO 14113 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-28T09:38:12.790+09:00  INFO 14113 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:38:12.790+09:00  INFO 14113 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:38:12.830+09:00  INFO 14113 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:38:12.830+09:00  INFO 14113 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 414 ms
+2023-03-28T09:38:13.008+09:00  INFO 14113 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-28T09:38:13.014+09:00  INFO 14113 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.902 seconds (process running for 1.309)
+2023-03-28T09:41:14.802+09:00  INFO 14554 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 14554 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:41:14.803+09:00  INFO 14554 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:41:15.134+09:00  INFO 14554 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-28T09:41:15.138+09:00  INFO 14554 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:41:15.138+09:00  INFO 14554 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:41:15.176+09:00  INFO 14554 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:41:15.177+09:00  INFO 14554 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 355 ms
+2023-03-28T09:41:15.449+09:00  INFO 14554 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-28T09:41:15.453+09:00  INFO 14554 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.881 seconds (process running for 1.195)
+2023-03-28T09:44:08.088+09:00  INFO 15024 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 15024 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:44:08.089+09:00  INFO 15024 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:44:08.424+09:00  INFO 15024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:44:08.428+09:00  INFO 15024 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:44:08.429+09:00  INFO 15024 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:44:08.466+09:00  INFO 15024 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:44:08.467+09:00  INFO 15024 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 359 ms
+2023-03-28T09:44:08.736+09:00  INFO 15024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:44:08.741+09:00  INFO 15024 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.891 seconds (process running for 1.191)
+2023-03-28T09:45:26.996+09:00  INFO 15318 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 15318 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:45:26.996+09:00  INFO 15318 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:45:27.328+09:00  INFO 15318 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:45:27.332+09:00  INFO 15318 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:45:27.332+09:00  INFO 15318 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:45:27.370+09:00  INFO 15318 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:45:27.370+09:00  INFO 15318 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 355 ms
+2023-03-28T09:45:27.680+09:00  INFO 15318 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:45:27.686+09:00  INFO 15318 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.926 seconds (process running for 1.224)
+2023-03-28T09:46:36.309+09:00  INFO 15487 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 15487 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:46:36.310+09:00  INFO 15487 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:46:36.660+09:00  INFO 15487 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:46:36.664+09:00  INFO 15487 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:46:36.665+09:00  INFO 15487 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:46:36.703+09:00  INFO 15487 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:46:36.703+09:00  INFO 15487 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 373 ms
+2023-03-28T09:46:36.985+09:00  INFO 15487 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:46:36.990+09:00  INFO 15487 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.944 seconds (process running for 1.262)
+2023-03-28T09:48:39.933+09:00  INFO 15774 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 15774 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:48:39.933+09:00  INFO 15774 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:48:40.272+09:00  INFO 15774 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:48:40.276+09:00  INFO 15774 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:48:40.276+09:00  INFO 15774 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:48:40.315+09:00  INFO 15774 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:48:40.315+09:00  INFO 15774 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 364 ms
+2023-03-28T09:48:40.590+09:00  INFO 15774 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:48:40.595+09:00  INFO 15774 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 1.019 seconds (process running for 1.439)
+2023-03-28T09:50:15.290+09:00  INFO 16014 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 16014 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:50:15.291+09:00  INFO 16014 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:50:15.639+09:00  INFO 16014 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:50:15.643+09:00  INFO 16014 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:50:15.643+09:00  INFO 16014 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:50:15.680+09:00  INFO 16014 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:50:15.680+09:00  INFO 16014 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 371 ms
+2023-03-28T09:50:15.959+09:00  INFO 16014 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:50:15.963+09:00  INFO 16014 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.901 seconds (process running for 1.23)
+2023-03-28T09:51:43.127+09:00  INFO 16232 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 16232 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:51:43.128+09:00  INFO 16232 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:51:43.467+09:00  INFO 16232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:51:43.471+09:00  INFO 16232 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:51:43.471+09:00  INFO 16232 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:51:43.510+09:00  INFO 16232 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:51:43.510+09:00  INFO 16232 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 364 ms
+2023-03-28T09:51:43.781+09:00  INFO 16232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:51:43.785+09:00  INFO 16232 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.967 seconds (process running for 1.347)
+2023-03-28T09:55:05.291+09:00  INFO 16711 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 16711 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:55:05.292+09:00  INFO 16711 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:55:05.627+09:00  INFO 16711 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:55:05.631+09:00  INFO 16711 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:55:05.631+09:00  INFO 16711 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:55:05.669+09:00  INFO 16711 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:55:05.669+09:00  INFO 16711 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 360 ms
+2023-03-28T09:55:05.936+09:00  INFO 16711 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:55:05.940+09:00  INFO 16711 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.879 seconds (process running for 1.247)
+2023-03-28T09:57:41.175+09:00  INFO 17175 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 17175 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:57:41.177+09:00  INFO 17175 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:57:41.529+09:00  INFO 17175 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:57:41.533+09:00  INFO 17175 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:57:41.533+09:00  INFO 17175 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:57:41.570+09:00  INFO 17175 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:57:41.571+09:00  INFO 17175 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 369 ms
+2023-03-28T09:57:41.839+09:00  INFO 17175 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:57:41.844+09:00  INFO 17175 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.901 seconds (process running for 1.2)
+2023-03-28T09:59:57.818+09:00  INFO 17509 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 17509 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T09:59:57.819+09:00  INFO 17509 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T09:59:58.155+09:00  INFO 17509 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T09:59:58.159+09:00  INFO 17509 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T09:59:58.159+09:00  INFO 17509 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T09:59:58.198+09:00  INFO 17509 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T09:59:58.198+09:00  INFO 17509 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 361 ms
+2023-03-28T09:59:58.469+09:00  INFO 17509 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T09:59:58.480+09:00  INFO 17509 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.891 seconds (process running for 1.225)
+2023-03-28T10:00:25.761+09:00  INFO 17588 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 17588 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T10:00:25.763+09:00  INFO 17588 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T10:00:26.098+09:00  INFO 17588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T10:00:26.102+09:00  INFO 17588 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T10:00:26.102+09:00  INFO 17588 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T10:00:26.140+09:00  INFO 17588 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T10:00:26.140+09:00  INFO 17588 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 360 ms
+2023-03-28T10:00:26.448+09:00  INFO 17588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T10:00:26.452+09:00  INFO 17588 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.92 seconds (process running for 1.261)
+2023-03-28T10:00:26.454+09:00  INFO 17588 --- [main] me.sample.myapp.MyappApplication         : hi
+2023-03-28T10:00:35.151+09:00  INFO 17617 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 17617 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T10:00:35.152+09:00  INFO 17617 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T10:00:35.533+09:00  INFO 17617 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T10:00:35.537+09:00  INFO 17617 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T10:00:35.537+09:00  INFO 17617 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T10:00:35.576+09:00  INFO 17617 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T10:00:35.576+09:00  INFO 17617 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 403 ms
+2023-03-28T10:00:35.850+09:00  INFO 17617 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T10:00:35.854+09:00  INFO 17617 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.937 seconds (process running for 1.257)
+2023-03-28T10:00:50.930+09:00  INFO 17658 --- [main] me.sample.myapp.MyappApplicationKt       : Starting MyappApplicationKt using Java 17.0.2 with PID 17658 (/Users/mzs01-allendev/Github/myapp/build/classes/kotlin/main started by mzs01-allendev in /Users/mzs01-allendev/Github/myapp)
+2023-03-28T10:00:50.931+09:00  INFO 17658 --- [main] me.sample.myapp.MyappApplicationKt       : The following 2 profiles are active: "local", "file-logging"
+2023-03-28T10:00:51.270+09:00  INFO 17658 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-28T10:00:51.274+09:00  INFO 17658 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28T10:00:51.274+09:00  INFO 17658 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-03-28T10:00:51.314+09:00  INFO 17658 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28T10:00:51.314+09:00  INFO 17658 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 365 ms
+2023-03-28T10:00:51.592+09:00  INFO 17658 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-28T10:00:51.597+09:00  INFO 17658 --- [main] me.sample.myapp.MyappApplicationKt       : Started MyappApplicationKt in 0.923 seconds (process running for 1.216)

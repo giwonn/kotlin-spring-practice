@@ -4,16 +4,14 @@
 
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>log/${LOG_FILE_BASE}.log</file>
-        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
             <fileNamePattern>log/${LOG_FILE_BASE}.log.%d{yyyyMMdd}.%i</fileNamePattern>
-            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
-                <maxFileSize>500MB</maxFileSize>
-            </timeBasedFileNamingAndTriggeringPolicy>
+            <maxFileSize>500MB</maxFileSize>
             <maxHistory>60</maxHistory>
         </rollingPolicy>
         <encoder>
             <pattern>${FILE_LOG_PATTERN}</pattern>
-            <immediateFlush>${IMMEDIATE_FLUSH}</immediateFlush>
+<!--            <immediateFlush>${IMMEDIATE_FLUSH}</immediateFlush>-->
         </encoder>
     </appender>
 
